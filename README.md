@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TokiWildDev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, HTML and CSS !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact: TokiWorldWildDev@gmail.com
 
